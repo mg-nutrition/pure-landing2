@@ -9,49 +9,47 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "PureLanding - Beautiful Shadcn UI Landing Page",
+  title: "Comparaelprecio - Comparador de Precios Históricos",
   description:
-    "A beautiful landing page built with Shadcn UI, Next.js 15, Tailwind CSS, and Shadcn UI Blocks.",
+    "Compara precios históricos de Amazon, MediaMarkt, Carrefour y más. Encuentra las mejores ofertas y ahorra dinero en tus compras online.",
   keywords: [
-    "PureLanding",
-    "PureLanding Landing Page",
-    "PureLanding Landing Page Template",
-    "PureLanding Page",
-    "Shadcn UI Landing Page",
-    "Shadcn UI Blocks",
-    "Shadcn UI",
-    "Landing Page",
-    "Tailwind CSS Landing Page",
-    "Beautiful Shadcn UI Landing Page",
-    "Next.js 15 Landing Page",
-    "Simple Landing Page",
-    "Landing Page Template",
-    "Landing Page Design",
+    "Comparaelprecio",
+    "Comparador de precios",
+    "Precios históricos",
+    "Amazon precios",
+    "MediaMarkt ofertas",
+    "Carrefour descuentos",
+    "Mejor precio",
+    "Ahorro dinero",
+    "Ofertas online",
+    "Precio mínimo histórico",
+    "Seguimiento precios",
+    "Alertas precio",
   ],
   openGraph: {
     type: "website",
-    siteName: "PureLanding",
+    siteName: "Comparaelprecio",
     locale: "en_US",
-    url: "https://shadcn-landing-page.vercel.app",
-    title: "PureLanding - Beautiful Shadcn UI Landing Page",
+    url: "https://comparaelprecio.com",
+    title: "Comparaelprecio - Comparador de Precios Históricos",
     description:
-      "A beautiful landing page built with Shadcn UI, Next.js 15, Tailwind CSS, and Shadcn UI Blocks.",
+      "Compara precios históricos de Amazon, MediaMarkt, Carrefour y más. Encuentra las mejores ofertas y ahorra dinero en tus compras online.",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "PureLanding Preview",
+        alt: "Comparaelprecio Preview",
       },
     ],
   },
   authors: [
     {
-      name: "Akash Moradiya",
-      url: "https://shadcnui-blocks.com",
+      name: "Comparaelprecio",
+      url: "https://comparaelprecio.com",
     },
   ],
-  creator: "Akash Moradiya",
+  creator: "Comparaelprecio",
   icons: [
     {
       rel: "icon",
